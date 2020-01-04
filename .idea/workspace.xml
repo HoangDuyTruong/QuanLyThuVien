@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12a1181a-2e78-4277-811e-05025d8aeafc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/MockUpServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/MockUpServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/config/ModelMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/config/ModelMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/entity/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/repository/UsersRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/repository/UsersRepositoryCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/repository/impl/UsersRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/services/UsersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/services/impl/UsersServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/utils/PageBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/dto/BaseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/dto/request/SearchUsersRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/dto/response/ResultDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/dto/users/UsersDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/rest/employees/EmployeesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/mockup/web/rest/users/UsersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/users/select-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/itsol/mockup/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/itsol/mockup/DemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loadUserByUsername</find>
+      <find>tokenUtils</find>
+      <find>AuthenticationTokenDTO</find>
+      <find>authenticationEntryPoint</find>
+      <find>AuthenticationTokenFilter</find>
+      <find>Auth-Token</find>
+      <find>tokenHeader</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VrtDBFhTqAfmLZJh1U8Fptrcop" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itsol.mockup.web.dto.auth" />
+      <recent name="com.itsol.mockup.web.dto.response.auth" />
+      <recent name="com.itsol.mockup.web.dto.response" />
+      <recent name="com.itsol.mockup.web.dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itsol.mockup.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MockUpServiceApplication">
+    <configuration name="MockUpServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsol.mockup.MockUpServiceApplication" />
+      <module name="mockup-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsol.mockup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockUpServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mockup-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itsol.mockup.MockUpServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockupServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mockup-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itsol.mockup.mockupservice.MockupServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MockUpServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a1181a-2e78-4277-811e-05025d8aeafc" name="Default Changelist" comment="" />
+      <created>1571051436096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571051436096</updated>
+      <workItem from="1571051439571" duration="19799000" />
+      <workItem from="1571104738564" duration="3980000" />
+      <workItem from="1571211119965" duration="15204000" />
+      <workItem from="1578022921360" duration="1261000" />
+      <workItem from="1578028934268" duration="2894000" />
+      <workItem from="1578058673216" duration="2269000" />
+      <workItem from="1578063863358" duration="9239000" />
+      <workItem from="1578116004264" duration="5923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Assign_Data_Sources" timestamp="1578114198578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1578114198578" />
+    <state x="361" y="73" key="#Inspections" timestamp="1578061582797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1578061582797" />
+    <state x="361" y="73" key="#Project_Structure" timestamp="1578060751791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578060751791" />
+    <state x="361" y="73" key="#SQL_Dialects" timestamp="1578026310999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1578026310999" />
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578026318961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578026318961" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1578111153648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578111153648" />
+    <state x="562" y="281" width="411" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578029631525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="281" width="411" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1578029631525" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578115305702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578115305702" />
+    <state x="359" y="10" key="CommitChangelistDialog2" timestamp="1578122240258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="359" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578122240258" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1578122393496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578122393496" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1578122393496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578122393496" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1578122393496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578122393496" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1578122393496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578122393496" />
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom" timestamp="1578031485595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578031485595" />
+    <state width="1493" height="300" key="GridCell.Tab.1.center" timestamp="1578031485595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578031485595" />
+    <state width="1493" height="300" key="GridCell.Tab.1.left" timestamp="1578031485595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578031485595" />
+    <state width="1493" height="300" key="GridCell.Tab.1.right" timestamp="1578031485595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578031485595" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578116005505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578116005505" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578122187031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578122187031" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578115093041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578115093041" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>SecurityContextHolder.getContext()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SecurityContextHolder.getContext().getAuthentication()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tokenUtils.generateToken(springSecurityUser)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userDetailsService.loadUserByUsername(userForAuthentication.getUsername())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rawDatas.getTotalElements()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SQLBuilder.getSqlQueryById(&quot;user&quot;, &quot;select-user&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SQLBuilder.getSqlQueryById(SQLBuilder.SQL_MODULE_USERS, &quot;select-user&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Configuration().configure(HibernateUtil.class.getResource(&quot;applications.properties&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Configuration().configure(HibernateUtil.class.getResource(&quot;/applications.properties&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
