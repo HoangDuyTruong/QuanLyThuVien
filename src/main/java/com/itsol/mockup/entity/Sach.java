@@ -12,9 +12,9 @@ import javax.persistence.*;
 public class Sach {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="sachid")
-    private int SachID;
+    private Long SachID;
 
     @Column(name="tensach")
     private String TenSach;
@@ -33,11 +33,14 @@ public class Sach {
     private  int TrangThai;
 
 
-    @OneToOne(cascade = CascadeType.ALL)
+    @OneToOne(cascade = {
+            CascadeType.MERGE,CascadeType.REFRESH})
     @JoinColumn(name = "tacgiaid", referencedColumnName = "tacgiaid")
     private TacGia tacgia;
 
-    @OneToOne(cascade = CascadeType.ALL)
+
+    @OneToOne(cascade = {
+            CascadeType.MERGE,CascadeType.REFRESH})
     @JoinColumn(name = "danhmucsachid", referencedColumnName = "danhmucsachid")
     private DanhMucSach danhMucSach;
 
